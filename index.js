@@ -1,3 +1,8 @@
+/**
+ * Kubernetes API実行 Lambda関数
+ * index.js
+ */
+
 // Import Packages
 const path = require('path');
 const fs = require('fs');
